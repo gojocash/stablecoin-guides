@@ -61,7 +61,7 @@ const config = {
         title: 'Stablecoin Guides',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/Gojo_Logo_RGB.png',
         },
         items: [
           {
