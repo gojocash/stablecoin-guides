@@ -1,6 +1,4 @@
-# Money transfer process description
-
-## Overall process
+# The Process
 
 Transferring money using stablecoins can be a convenient and potentially cost-effective alternative to traditional financial services. Here are the steps for transferring money using stablecoins:
 
