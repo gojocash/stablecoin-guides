@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "c4c30a5ad2f87e07",
+    "type": "split",
+    "children": [
+      {
+        "id": "a44dbb83d090aa9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "998078c476fa8e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/1 - overall process/1 - choosing the stablecoin and exchange.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b87285d04a71ccee",
+    "type": "split",
+    "children": [
+      {
+        "id": "2131f7d350d7cd49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0116c2bd2edf9f99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6725132d95805156",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c86cf49f682326ad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f85906549edc0dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "eceb50e3597743c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd7a56464b9515c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/1 - overall process/1 - choosing the stablecoin and exchange.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc1eb374499d4d2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/1 - overall process/1 - choosing the stablecoin and exchange.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d42b0cbcf4ac3a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24784d9ec95eb75e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/1 - overall process/1 - choosing the stablecoin and exchange.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "998078c476fa8e88",
+  "lastOpenFiles": [
+    "docs/1 - overall process/index.md",
+    "docs/1 - overall process/1 - choosing the stablecoin and exchange.md"
+  ]
+}

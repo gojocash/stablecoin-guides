@@ -2,7 +2,7 @@
 
 Transferring money using stablecoins can be a convenient and potentially cost-effective alternative to traditional financial services. Here are the steps for transferring money using stablecoins:
 
-1. **Choose a stablecoin:** There are several different types of stablecoins available, so it is important to choose one that meets your needs and has a reputable issuer. Consider factors such as the underlying asset or currency the stablecoin is pegged to, the fees and terms of use, and the stability and security of the stablecoin.
+1. **Choose a stablecoin and the exchange:** There are several different types of stablecoins available, so it is important to choose one that meets your needs and has a reputable issuer. Consider factors such as the underlying asset or currency the stablecoin is pegged to, the fees and terms of use, and the stability and security of the stablecoin.
 
 2. **Purchase the stablecoin:** Once you have chosen a stablecoin, you will need to purchase it using a traditional currency or another cryptocurrency. This can typically be done through a cryptocurrency exchange or online platform.
 
